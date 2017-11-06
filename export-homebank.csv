@@ -1,0 +1,5 @@
+date;paymode;info;payee;wording;amount;category;tags
+11/06/2017;1;info bla;;(null);0.00;;
+11/06/2017;0;;;(null);0.00;;
+11/06/2017;0;info bla2;bla bla;(null);10.00;info 2;
+11/06/2017;0;info bla3;bla bla;(null);25.00;info 3;
